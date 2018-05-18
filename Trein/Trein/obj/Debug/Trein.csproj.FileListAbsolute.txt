@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Trein\HeadFirstAssessment\Trein\Trein\obj\Debug\Trein.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Trein\HeadFirstAssessment\Trein\Trein\obj\Debug\Trein.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Trein\HeadFirstAssessment\Trein\Trein\bin\Debug\Trein.exe.config
+C:\Users\User\source\repos\Trein\HeadFirstAssessment\Trein\Trein\bin\Debug\Trein.exe
+C:\Users\User\source\repos\Trein\HeadFirstAssessment\Trein\Trein\bin\Debug\Trein.pdb
+C:\Users\User\source\repos\Trein\HeadFirstAssessment\Trein\Trein\obj\Debug\Trein.exe
+C:\Users\User\source\repos\Trein\HeadFirstAssessment\Trein\Trein\obj\Debug\Trein.pdb
